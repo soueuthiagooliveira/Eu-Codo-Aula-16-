@@ -2,3 +2,7 @@
 
 Seja Bem Vindo ao meu primeiro repositório
 criado na aula 16 do treinamento EU Codo.
+
+
+Alterei na minha máquina para 
+testar meu aprendizado. 
